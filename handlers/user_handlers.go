@@ -6,7 +6,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"
-	"../services"
+	"packages/services"
 )
 
 // POST /user - Create User

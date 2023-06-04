@@ -1,7 +1,8 @@
 package main
 
-import ( "fmt" "io/ioutil" "log"
-
+import ( "fmt"
+	 "io/ioutil"
+	 "log"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/yaml.v3"
 	"gorm.io/driver/mysql"
